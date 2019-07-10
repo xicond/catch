@@ -1,8 +1,9 @@
+
 ### Getting Started
  
 This program simply use Yii framework
 
-###Setup
+### Setup
 
 1. Install composer
 2. run `composer install`
